@@ -22,3 +22,10 @@ Kenny Lai, John Masters, Vicky Nie
 
 ## R6 - Screenshots of your Trello board throughout the duration of the project
 
+### Screenshot on 13/01/2023
+
+![Screenshot on 13/01/2023](src/13012023.png)
+
+### Screenshot on 16/01/2023
+
+![Screenshot on 16/01/2023](src/16012023.png)
