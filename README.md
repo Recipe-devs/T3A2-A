@@ -14,7 +14,7 @@ Kenny Lai, John Masters, Vicky Nie
 
 ## R2 - Dataflow Diagram
 Gane and Sarson notation:
-![Draft Data Flow Diagram](src/DraftDFD.png)
+![Draft Data Flow Diagram](src/DraftDFD.PNG)
 
 ## R3 - Application Architecture Diagram
 
