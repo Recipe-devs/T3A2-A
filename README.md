@@ -13,6 +13,8 @@ Kenny Lai, John Masters, Vicky Nie
 ### Tech stack
 
 ## R2 - Dataflow Diagram
+Gane and Sarson notation:
+![Draft Data Flow Diagram](src/DraftDFD.png)
 
 ## R3 - Application Architecture Diagram
 
