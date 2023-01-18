@@ -13,12 +13,13 @@ Kenny Lai, John Masters, Vicky Nie
 ### Tech stack
 
 ## R2 - Dataflow Diagram
+
 Gane and Sarson notation:
-![Draft Data Flow Diagram](src/DraftDFD.PNG)
+![Draft Data Flow Diagram](docs/DraftDFD.PNG)
 
 ## R3 - Application Architecture Diagram
 
-![Application Architecture Diagram](src/application-architecture-diagram.jpg)
+![Application Architecture Diagram](docs/application-architecture-diagram.jpg)
 
 ## R4 - User Stories
 
@@ -28,8 +29,12 @@ Gane and Sarson notation:
 
 ### Screenshot on 13/01/2023
 
-![Screenshot on 13/01/2023](src/trello-screenshots/13012023.png)
+![Screenshot on 13/01/2023](docs/trello-screenshots/13012023.png)
 
 ### Screenshot on 16/01/2023
 
-![Screenshot on 16/01/2023](src/trello-screenshots/16012023.png)
+![Screenshot on 16/01/2023](docs/trello-screenshots/16012023.png)
+
+### Screenshot on 18/01/2023
+
+![Screenshot on 18/01/2023](docs/trello-screenshots/18012023.png)
