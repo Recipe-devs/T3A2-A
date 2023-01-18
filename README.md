@@ -5,6 +5,8 @@ Kenny Lai, John Masters, Vicky Nie
 ## R1 - Description of your website
 
 ### Purpose
+This app is designed to help cooks of all skill levels to discover, save, and submit their recipes. 
+
 
 ### Functionality/features
 
