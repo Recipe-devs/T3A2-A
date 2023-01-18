@@ -1,4 +1,4 @@
-# T3A2-A 
+# T3A2-A
 
 Kenny Lai, John Masters, Vicky Nie
 
@@ -16,6 +16,8 @@ Kenny Lai, John Masters, Vicky Nie
 
 ## R3 - Application Architecture Diagram
 
+![Application Architecture Diagram](src/application-architecture-diagram.jpg)
+
 ## R4 - User Stories
 
 ## R5 - Wireframes
@@ -24,8 +26,8 @@ Kenny Lai, John Masters, Vicky Nie
 
 ### Screenshot on 13/01/2023
 
-![Screenshot on 13/01/2023](src/13012023.png)
+![Screenshot on 13/01/2023](src/trello-screenshots/13012023.png)
 
 ### Screenshot on 16/01/2023
 
-![Screenshot on 16/01/2023](src/16012023.png)
+![Screenshot on 16/01/2023](src/trello-screenshots/16012023.png)
