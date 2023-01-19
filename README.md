@@ -9,11 +9,20 @@ This app is designed to help cooks of all skill levels to discover, save, and su
 
 
 ### Functionality/features
+- A large and inviting display of food photos will let users browse and see what they can expect the dishes will look like.
+- The list of recipes will be able to be filtered based on cuisine, dietary requirements and complexity.
+- Users will be able to leave a public comment and a rating.
+Recipes will be displayed to be simple and easy to follow.
+- Users will be able to save recipes to their profile for quick access to the meals they enjoyed making or plan to try later.
+- Users will be able to submit their own recipes to the community.
 
 ### Target audience
+The target audience of the app are home cooks, busy individuals, and those with dietary requirements.  
 
 ### Tech stack
-
+**Deployment:** Railway  
+**Front-end:** HTML, CSS, Bootstrap, JavaScript, React  
+**Back-end:** Node.js, Express, MongoDB, Mongoose
 ## R2 - Dataflow Diagram
 
 Gane and Sarson notation:
