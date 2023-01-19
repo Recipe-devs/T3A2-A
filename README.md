@@ -2,13 +2,31 @@
 
 Kenny Lai, John Masters, Vicky Nie
 
+---
+
+## Table of Contents
+
+- [Description of your website](#r1---description-of-your-website)
+    - [Purpose](#purpose)
+    - [Functionality/features](#functionalityfeatures)
+    - [Target audience](#target-audience)
+    - [Tech stack](#tech-stack)
+- [Dataflow Diagram](#r2---dataflow-diagram)
+- [Application Architecture Diagram](#r3---application-architecture-diagram)
+- [User Stories](#r4---user-stories)
+- [Wireframes](#r5---wireframes)
+- [Screenshots of your Trello board throughout the duration of the project](#r6---screenshots-of-your-trello-board-throughout-the-duration-of-the-project)
+
+---
+
 ## R1 - Description of your website
 
 ### Purpose
-This app is designed to help cooks of all skill levels to discover, save, and submit their recipes. 
 
+This app is designed to help cooks of all skill levels to discover, save, and submit their recipes.
 
 ### Functionality/features
+
 - A large and inviting display of food photos will let users browse and see what they can expect the dishes will look like.
 - The list of recipes will be able to be filtered based on cuisine, dietary requirements and complexity.
 - Users will be able to leave a public comment and a rating.
@@ -17,12 +35,15 @@ Recipes will be displayed to be simple and easy to follow.
 - Users will be able to submit their own recipes to the community.
 
 ### Target audience
+
 The target audience of the app are home cooks, busy individuals, and those with dietary requirements.  
 
 ### Tech stack
+
 **Deployment:** Railway  
 **Front-end:** HTML, CSS, Bootstrap, JavaScript, React  
 **Back-end:** Node.js, Express, MongoDB, Mongoose
+
 ## R2 - Dataflow Diagram
 
 Gane and Sarson notation:
@@ -49,3 +70,4 @@ Gane and Sarson notation:
 ### Screenshot on 18/01/2023
 
 ![Screenshot on 18/01/2023](docs/trello-screenshots/18012023.png)
+
