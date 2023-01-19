@@ -1,8 +1,8 @@
 # T3A2-A
 
-Kenny Lai, John Masters, Vicky Nie
+## Recipe Realm
 
----
+*Kenny Lai, John Masters, Vicky Nie*
 
 ## Table of Contents
 
@@ -15,9 +15,7 @@ Kenny Lai, John Masters, Vicky Nie
 - [Application Architecture Diagram](#r3---application-architecture-diagram)
 - [User Stories](#r4---user-stories)
 - [Wireframes](#r5---wireframes)
-- [Screenshots of your Trello board throughout the duration of the project](#r6---screenshots-of-your-trello-board-throughout-the-duration-of-the-project)
-
----
+- [Trello board screenshots](#r6---trello-board-screenshots)
 
 ## R1 - Description of your website
 
@@ -55,9 +53,31 @@ Gane and Sarson notation:
 
 ## R4 - User Stories
 
+- As a busy parent, I want to easily access my favourite recipes, so I can make meals I know my family will enjoy.
+
+- As a busy parent, I want to see popular recipes without having to read a thousand words, as I am always on the move and don’t have time to sit and read.
+
+- As someone new to cooking, I want to be able to ask questions regarding a recipe
+
+- As someone new to cooking, I want to find beginner recipes that can let me make great meals without too much stress.
+
+- As a user I want to review recipes, so I can let others know how the meal turned out.
+
+- As someone who doesn’t know what to cook, I want a recipe suggestion daily
+
+- As someone who loves cooking, I want to be able to upload my own recipes and receive feedback from other users
+
+- As an adventurous eater, I want to be able to filter recipe searches, so that I can easily find recipes from specific cuisines or categories
+
+- As someone who works from home, I want to find recipes that use the ingredients I already have
+
+- As a design student, I want the app to be modern and user friendly
+
+- As a design student, I want the app take into consideration accessibility 
+
 ## R5 - Wireframes
 
-## R6 - Screenshots of your Trello board throughout the duration of the project
+## R6 - Trello board screenshots
 
 ### Screenshot on 13/01/2023
 
