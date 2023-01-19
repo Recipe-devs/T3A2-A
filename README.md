@@ -1,6 +1,4 @@
-# T3A2-A
-
-## Recipe Realm
+# T3A2-A - Recipe Realm
 
 *Kenny Lai, John Masters, Vicky Nie*
 
@@ -90,4 +88,8 @@ Gane and Sarson notation:
 ### Screenshot on 18/01/2023
 
 ![Screenshot on 18/01/2023](docs/trello-screenshots/18012023.png)
+
+### Screenshot on 19/01/2023
+
+![Screenshot on 19/01/2023](docs/trello-screenshots/19012023.png)
 
