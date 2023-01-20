@@ -91,13 +91,26 @@ Gane and Sarson notation:
 ## R5 - Wireframes
 
 ### Desktop  
+![Desktop Index](docs/wireframes/desktop_index.png)  
 
+![Desktop Single Recipe](docs/wireframes/desktop_single.png)
+
+![Desktop  Login](docs/wireframes/desktop_login.png)
+
+![Desktop User Home](docs/wireframes/desktop_user_home.png)
 ### Tablet  
+![Tablet Index](docs/wireframes/tablet_recipe.png)
+
+![Tablet Login](docs/wireframes/tablet_login.png)
+
+![Tablet User Home](docs/wireframes/tablet_user_home.png)
 
 ### Mobile  
+![Mobile Index](docs/wireframes/mobile_recipe.png)
 
+![Mobile User Home](docs/wireframes/mobile_user_home.png)
 ### User Login Flow 
-
+![User Login Flow](docs/wireframes/user_login_flow.png)
 ## R6 - Trello board screenshots
 
 ### Screenshot on 13/01/2023
