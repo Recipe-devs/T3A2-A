@@ -33,12 +33,15 @@ This app is designed to help cooks of all skill levels to discover, save, and su
 
 ### Functionality/features
 
-- A large and inviting display of food photos will let users browse and see what they can expect the dishes will look like.
-- The list of recipes will be able to be filtered based on cuisine, dietary requirements and complexity.
-- Users will be able to leave a public comment and a rating.
-Recipes will be displayed to be simple and easy to follow.
-- Users will be able to save recipes to their profile for quick access to the meals they enjoyed making or plan to try later.
-- Users will be able to submit their own recipes to the community.
+- A large and inviting display of recipe photos with recipe names that will let users browse and select recipes.
+- The list of recipes will be able to be filtered based on name, cuisine, dietary requirements, complexity, ingredients, and more.
+- A daily random featured recipe that has a high rating.
+- Recipes will be displayed to be simple and easy to follow.
+- Navigation bar for easy access to different site content.
+- Users can submit their own recipes to the community.
+- Users will be able to leave public comments on recipes.
+- Users can rate recipes.
+- Users will be able to save recipes to their favourites profile for quick access to the meals they enjoyed making or plan to try later.
 
 ### Target audience
 
@@ -53,7 +56,7 @@ The target audience of the app are home cooks, busy individuals, and those with 
 ## R2 - Dataflow Diagram
 
 Gane and Sarson notation:
-![Draft Data Flow Diagram](docs/DraftDFD.PNG)
+![Data Flow Diagram](docs/data_flow_diagram.png)
 
 ## R3 - Application Architecture Diagram
 
@@ -65,23 +68,25 @@ Gane and Sarson notation:
 
 - As a busy parent, I want to see popular recipes without having to read a thousand words, as I am always on the move and don’t have time to sit and read.
 
-- As someone new to cooking, I want to be able to ask questions regarding a recipe
+- As an adventurous eater, I want to be able to filter recipe searches, so that I can easily find recipes from specific cuisines or categories.
+  
+- As a vegetarian, I want to find recipes that meet my dietary requirements so I can make vegetarian dishes.
+
+- As someone who works from home, I want to find recipes that use the ingredients I already have.
+  
+- As someone new to cooking, I want to be able to ask questions regarding a recipe so I can clarify certain details.
 
 - As someone new to cooking, I want to find beginner recipes that can let me make great meals without too much stress.
 
-- As a user I want to review recipes, so I can let others know how the meal turned out.
+- As a user I want to review and rate recipes, so I can let others know how the meal turned out.
 
-- As someone who doesn’t know what to cook, I want a recipe suggestion daily
+- As someone who doesn’t know what to cook, I want a recipe suggestion daily so I don't have to think about it.
 
-- As someone who loves cooking, I want to be able to upload my own recipes and receive feedback from other users
+- As someone who loves cooking, I want to be able to upload my own recipes and receive feedback from other users so I can share and improve my skills.
 
-- As an adventurous eater, I want to be able to filter recipe searches, so that I can easily find recipes from specific cuisines or categories
+- As a busy person, I want apps to be modern and user friendly so I can use the site easily.
 
-- As someone who works from home, I want to find recipes that use the ingredients I already have
-
-- As a design student, I want the app to be modern and user friendly
-
-- As a design student, I want the app take into consideration accessibility 
+- As a design student, I want the app take into consideration accessibility so people are not excluded.
 
 ## R5 - Wireframes
 
