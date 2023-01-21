@@ -19,7 +19,7 @@
     - [Tablet](#tablet)
     - [Mobile](#mobile)
     - [User Login Flow](#user-login-flow)
-  - [R6 - Trello board screenshots](#r6---trello-board-screenshots)
+  - [R6 - Project Management \& Trello board screenshots](#r6---project-management--trello-board-screenshots)
     - [Screenshot on 13/01/2023](#screenshot-on-13012023)
     - [Screenshot on 16/01/2023](#screenshot-on-16012023)
     - [Screenshot on 18/01/2023](#screenshot-on-18012023)
@@ -111,7 +111,11 @@ Gane and Sarson notation:
 ![Mobile User Home](docs/wireframes/mobile_user_home.png)
 ### User Login Flow 
 ![User Login Flow](docs/wireframes/user_login_flow.png)
-## R6 - Trello board screenshots
+## R6 - Project Management & Trello board screenshots
+
+For this project we have decided to use the Agile methodology for project management. This will see the quick completion of tasks, daily stand ups of what tasks have been completed and will be completed in the next 24 hours, and flexibility to changes to the requirements to the project.
+
+This will be managed is Trello, a Kanban style project management tool, where individual tasks are noted on seperate cards. Each card will have properties to determine which member of the group it is assigned to, when it is due, and the estimated time to complete the task. Within the cards there are also sub-lists, to further breakdown the tasks and allow for incremental progress to be seen.  
 
 ### Screenshot on 13/01/2023
 
