@@ -99,7 +99,7 @@ The app will consist of the following main pages, with subpages where necessary:
   - Single recipe page where they will view the recipe details
   - Login page where they will be able to login to their account, or register for a new account
   - User home page where they will be able to view their saved recipes, comments, ratings, and submitted recipes  
-
+<sub>*User login, and user homepage for comments, and ratings are optional features based on time allowance</sub>
 ### Hand Sketch
 During the concept stage of the project, a rough hand sktech was create to layout what pages the app would have a basic layout of the pages.
 ![Hand Sketch](docs/wireframes/hand_sketch.jpg)
