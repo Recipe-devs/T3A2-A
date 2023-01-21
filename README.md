@@ -6,15 +6,19 @@
 
 ## Table of Contents
 
-- [Description of your website](#r1---description-of-your-website)
+- [T3A2-A - Recipe Realm](#t3a2-a---recipe-realm)
+      - [*Kenny Lai, John Masters, Vicky Nie*](#kenny-lai-john-masters-vicky-nie)
+  - [Table of Contents](#table-of-contents)
+  - [R1 - Web App Overview](#r1---web-app-overview)
     - [Purpose](#purpose)
     - [Functionality/features](#functionalityfeatures)
     - [Target audience](#target-audience)
     - [Tech stack](#tech-stack)
-- [Dataflow Diagram](#r2---dataflow-diagram)
-- [Application Architecture Diagram](#r3---application-architecture-diagram)
-- [User Stories](#r4---user-stories)
-- [Wireframes](#r5---wireframes)
+  - [R2 - Dataflow Diagram](#r2---dataflow-diagram)
+  - [R3 - Application Architecture Diagram](#r3---application-architecture-diagram)
+  - [R4 - User Stories](#r4---user-stories)
+  - [R5 - Wireframes](#r5---wireframes)
+          - [\*User login and user homepage for comments and ratings are optional features based on time allowance](#user-login-and-user-homepage-for-comments-and-ratings-are-optional-features-based-on-time-allowance)
     - [Hand Sketch](#hand-sketch)
     - [Low Fidelity Wireframes](#low-fidelity-wireframes)
     - [Medium Fidelity Wireframes](#medium-fidelity-wireframes)
@@ -22,9 +26,14 @@
     - [Tablet Views](#tablet-views)
     - [Mobile Views](#mobile-views)
     - [User Login Flow](#user-login-flow)
-- [Project Management \& Trello board screenshots](#r6---project-management--trello-board-screenshots)
+  - [R6 - Project Management \& Trello board screenshots](#r6---project-management--trello-board-screenshots)
+    - [Screenshot on 13/01/2023](#screenshot-on-13012023)
+    - [Screenshot on 16/01/2023](#screenshot-on-16012023)
+    - [Screenshot on 18/01/2023](#screenshot-on-18012023)
+    - [Screenshot on 19/01/2023](#screenshot-on-19012023)
+    - [Screenshot on 21/01/2023](#screenshot-on-21012023)
 
-## R1 - Description of your website
+## R1 - Web App Overview
 
 ### Purpose
 
@@ -88,11 +97,11 @@ The app will consist of the following main pages, with subpages where necessary:
 - Login page where they will be able to login to their account, or register for a new account
 - User home page where they will be able to view their saved recipes, comments, ratings, and submitted recipes  
 
-###### *User login and user homepage for comments and ratings are optional features based on time allowance
+###### *User login, and user homepage for comments and ratings are optional features based on time allowance
 
 ### Hand Sketch
 
-During the concept stage of the project, a rough hand sktech was create to layout what pages the app would have a basic layout of the pages.
+During the concept stage of the project, a rough hand sketch was created to see what pages the app would have, and a basic layout of the pages.
 
 ![Hand Sketch](docs/wireframes/hand_sketch.jpg)
 
@@ -104,7 +113,7 @@ From the hand sketches a low fidelity digital wireframe was created of each page
 
 ### Medium Fidelity Wireframes
 
-When the low fidelity wireframes were approved, medium fidelity wireframes was created, showing more detail of the features of the app and how the layout will appear on different devices.
+When the low fidelity wireframes were approved, medium fidelity wireframes were created, showing more detail of the features of the app and how the layout will appear on different devices.
 
 ### Desktop Views
 
@@ -143,7 +152,7 @@ Below is an example of a user interaction flow when using the Recipe Realm app. 
 
 ## R6 - Project Management & Trello board screenshots
 
-For this project we have decided to use the Agile methodology for project management. This will see the quick completion of tasks, daily stand ups of what tasks have been completed and will be completed in the next 24 hours, and flexibility to changes to the requirements to the project.
+For this project we have decided to use the Agile methodology for project management. This will see the quick completion of tasks, daily stand ups of what tasks have been completed and will be completed in the next 24 hours, and flexibility to changes to the requirements of the project.
 
 This will be managed is Trello, a Kanban style project management tool, where individual tasks are noted on seperate cards. Each card will have properties to determine which member of the group it is assigned to, when it is due, and the estimated time to complete the task. Within the cards there are also sub-lists, to further breakdown the tasks and allow for incremental progress to be seen.
 
