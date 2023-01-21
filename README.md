@@ -15,9 +15,12 @@
   - [R3 - Application Architecture Diagram](#r3---application-architecture-diagram)
   - [R4 - User Stories](#r4---user-stories)
   - [R5 - Wireframes](#r5---wireframes)
-    - [Desktop](#desktop)
-    - [Tablet](#tablet)
-    - [Mobile](#mobile)
+    - [Hand Sketch](#hand-sketch)
+    - [Low Fidelity Wireframes:](#low-fidelity-wireframes)
+    - [Medium Fidelity Wireframes:](#medium-fidelity-wireframes)
+    - [Desktop Views](#desktop-views)
+    - [Tablet Views](#tablet-views)
+    - [Mobile Views](#mobile-views)
     - [User Login Flow](#user-login-flow)
   - [R6 - Project Management \& Trello board screenshots](#r6---project-management--trello-board-screenshots)
     - [Screenshot on 13/01/2023](#screenshot-on-13012023)
@@ -89,8 +92,24 @@ Gane and Sarson notation:
 - As a design student, I want the app take into consideration accessibility so people are not excluded.
 
 ## R5 - Wireframes
+The following wireframes were created using Figma and will provide a visual representation of the Recipe Realm app. The wireframes will show the layout of the app on different devices, and the user interaction flow.
 
-### Desktop  
+The app will consist of the following main pages, with subpages where necessary:
+  - Index page where they will view, search and filter recipes
+  - Single recipe page where they will view the recipe details
+  - Login page where they will be able to login to their account, or register for a new account
+  - User home page where they will be able to view their saved recipes, comments, ratings, and submitted recipes  
+
+### Hand Sketch
+During the concept stage of the project, a rough hand sktech was create to layout what pages the app would have a basic layout of the pages.
+![Hand Sketch](docs/wireframes/hand_sketch.jpg)
+### Low Fidelity Wireframes:
+From the hand sketches a low fidelity digital wireframe was created of each page.
+![Low Fidelity Wireframes](docs/wireframes/lofi.png)
+
+### Medium Fidelity Wireframes:
+When the low fidelity wireframes were approved, medium fidelity wireframes was created, showing more detail of the features of the app and how the layout will appear on different devices.
+### Desktop Views
 ![Desktop Index](docs/wireframes/desktop_index.png)  
 
 ![Desktop Single Recipe](docs/wireframes/desktop_single.png)
@@ -98,18 +117,27 @@ Gane and Sarson notation:
 ![Desktop  Login](docs/wireframes/desktop_login.png)
 
 ![Desktop User Home](docs/wireframes/desktop_user_home.png)
-### Tablet  
+
+
+### Tablet Views
 ![Tablet Index](docs/wireframes/tablet_recipe.png)
 
 ![Tablet Login](docs/wireframes/tablet_login.png)
 
 ![Tablet User Home](docs/wireframes/tablet_user_home.png)
 
-### Mobile  
+### Mobile Views
 ![Mobile Index](docs/wireframes/mobile_recipe.png)
 
-![Mobile User Home](docs/wireframes/mobile_user_home.png)
+![Mobile User Home](docs/wireframes/mobile_user_home.png)  
+  
 ### User Login Flow 
+Below is an example of a user interaction flow when using the Recipe Realm app. This flow will show how a user would navigate to their user home page, where they are able to see their saved recipes, comments, ratings, and submitted recipes.  
+1. To find the login page the user will click on the hamburger menu
+2. From the menu shade, the login button will be clicked
+3. They will be redirected to the login page and will enter their username and password
+4. They will be redirected to their user home page  
+   
 ![User Login Flow](docs/wireframes/user_login_flow.png)
 ## R6 - Project Management & Trello board screenshots
 
