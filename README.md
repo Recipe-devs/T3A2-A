@@ -18,7 +18,6 @@
   - [R3 - Application Architecture Diagram](#r3---application-architecture-diagram)
   - [R4 - User Stories](#r4---user-stories)
   - [R5 - Wireframes](#r5---wireframes)
-          - [\*User login and user homepage for comments and ratings are optional features based on time allowance](#user-login-and-user-homepage-for-comments-and-ratings-are-optional-features-based-on-time-allowance)
     - [Hand Sketch](#hand-sketch)
     - [Low Fidelity Wireframes](#low-fidelity-wireframes)
     - [Medium Fidelity Wireframes](#medium-fidelity-wireframes)
