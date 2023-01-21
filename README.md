@@ -6,18 +6,15 @@
 
 ## Table of Contents
 
-- [T3A2-A - Recipe Realm](#t3a2-a---recipe-realm)
-      - [*Kenny Lai, John Masters, Vicky Nie*](#kenny-lai-john-masters-vicky-nie)
-  - [Table of Contents](#table-of-contents)
-  - [R1 - Web App Overview](#r1---web-app-overview)
+- [Web App Overview](#r1---web-app-overview)
     - [Purpose](#purpose)
     - [Functionality/features](#functionalityfeatures)
     - [Target audience](#target-audience)
     - [Tech stack](#tech-stack)
-  - [R2 - Dataflow Diagram](#r2---dataflow-diagram)
-  - [R3 - Application Architecture Diagram](#r3---application-architecture-diagram)
-  - [R4 - User Stories](#r4---user-stories)
-  - [R5 - Wireframes](#r5---wireframes)
+- [Dataflow Diagram](#r2---dataflow-diagram)
+- [Application Architecture Diagram](#r3---application-architecture-diagram)
+- [User Stories](#r4---user-stories)
+- [Wireframes](#r5---wireframes)
     - [Hand Sketch](#hand-sketch)
     - [Low Fidelity Wireframes](#low-fidelity-wireframes)
     - [Medium Fidelity Wireframes](#medium-fidelity-wireframes)
@@ -25,12 +22,7 @@
     - [Tablet Views](#tablet-views)
     - [Mobile Views](#mobile-views)
     - [User Login Flow](#user-login-flow)
-  - [R6 - Project Management \& Trello board screenshots](#r6---project-management--trello-board-screenshots)
-    - [Screenshot on 13/01/2023](#screenshot-on-13012023)
-    - [Screenshot on 16/01/2023](#screenshot-on-16012023)
-    - [Screenshot on 18/01/2023](#screenshot-on-18012023)
-    - [Screenshot on 19/01/2023](#screenshot-on-19012023)
-    - [Screenshot on 21/01/2023](#screenshot-on-21012023)
+- [Project Management \& Trello board screenshots](#r6---project-management--trello-board-screenshots)
 
 ## R1 - Web App Overview
 
